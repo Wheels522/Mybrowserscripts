@@ -14,6 +14,6 @@ img.style.right = '0';
 // Set the width and height of the image
 img.style.width = '100px'; // Adjust the width as needed
 img.style.height = 'auto'; // Adjust the height as needed
-
+img.style.zIndex = '9999';
 // Append the image to the document body
 document.body.appendChild(img);
