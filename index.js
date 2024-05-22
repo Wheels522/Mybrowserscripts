@@ -2,7 +2,8 @@
 var img = document.createElement('img');
 
 // Set the source of the image
-img.src = 'your_image_url.jpg';
+img.src = 'IMG_1026.gif
+';
 
 // Set the position of the image to fixed so it stays in the viewport
 img.style.position = 'fixed';
