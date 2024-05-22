@@ -2,8 +2,7 @@
 var img = document.createElement('img');
 
 // Set the source of the image
-img.src = 'IMG_1026.gif
-';
+img.src = 'https://raw.githubusercontent.com/Wheels522/Mybrowserscripts/main/IMG_1026.gif';
 
 // Set the position of the image to fixed so it stays in the viewport
 img.style.position = 'fixed';
